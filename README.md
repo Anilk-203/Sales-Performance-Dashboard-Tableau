@@ -1,16 +1,10 @@
-# 📊 Sales Performance Dashboard (Tableau)
+<img width="1653" height="854" alt="sales performance dashboard" src="https://github.com/user-attachments/assets/87c367c1-3e91-4f46-bc63-ffb789e331a3" /># 📊 Sales Performance Dashboard (Tableau)
 
 ## 📖 Overview
 
 This project presents an interactive **Sales Performance Dashboard** built using **Tableau** with the Sample Superstore dataset.
 
 The dashboard helps analyze overall sales, profit, orders, category performance, regional sales, and monthly sales trends.
-
----
-
-## 📷 Dashboard Preview
-
-![Sales Dashboard](sales performance dashboard.png)
 
 ---
 
